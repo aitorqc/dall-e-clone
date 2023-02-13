@@ -6,5 +6,5 @@ export function getRandomPrompt(prompt) {
 
     if(randomPrompt === prompt) return getRandomPrompt(prompt);
 
-    return randomPrompt;
+    return randomPrompt.charAt(0).toUpperCase() + randomPrompt.slice(1);
 }
