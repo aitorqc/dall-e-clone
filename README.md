@@ -1,4 +1,4 @@
-# DALL-E CLONE
+# DALL-E CLONE Cloudinary
 
 ## Tecnologías
 
